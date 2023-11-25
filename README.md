@@ -1,6 +1,6 @@
 <img height="50px" src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Firecracker/3D/firecracker_3d.png" />
 
-<h1>Hey hi!, my name is <a href="https://github.com/Defcon27">Xerxis</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hey hi!, my name is <a href="https://github.com/kaixersoft">Xerxis</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
