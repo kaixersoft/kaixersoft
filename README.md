@@ -14,7 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steplerpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Seasoned web solution engineer with robust experience ranging from building web application , customised CMS driven website, RESTful API and GraphQL. I have ample knowledge and experience setting up cloud services, such as Amazon Web Services.
+Experienced Full Stack Developer with a strong focus on backend development, specializing in the design and optimization of RESTful APIs and databases. My extensive background includes the creation of custom eCommerce websites, web applications, and the implementation of GraphQL. I possess a deep understanding and hands-on experience in infrastructure system design, leveraging cloud platforms such as Amazon Web Services. My comprehensive skill set and robust experience make me a versatile web solution engineer, capable of delivering efficient and scalable solutions.
+
+While I have not held formal leadership roles in the past, my approach has been to serve as a key technical contributor, driving the organization’s growth through my technical expertise. My focus on fostering a collaborative and self-organizing team environment has been instrumental in accelerating project timelines and enhancing product quality. My experience as a Full Stack Developer, with a strong emphasis on backend development, RESTful API design, database optimization, and cloud-based infrastructure system design, has allowed me to make significant contributions to the teams and projects I have been a part of.
 
 
 <!--
